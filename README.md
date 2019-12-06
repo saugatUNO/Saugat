@@ -1,2 +1,2 @@
-# saugat
+# Saugat
 This is my page
