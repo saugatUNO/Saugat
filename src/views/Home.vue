@@ -9,6 +9,9 @@ export default {
   name: 'home',
   components: {
 
+  },
+  mounted () {
+    console.log('tset')
   }
 }
 </script>
